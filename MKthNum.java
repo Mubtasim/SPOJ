@@ -9,7 +9,7 @@ import java.util.*;
  * @author Mubtasim Shahriar
  */
 
-public class MKthNum {
+public class K-thNumber {
 
     public static void main(String[] args) {
 
